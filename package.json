@@ -14,8 +14,7 @@
     "shred-bootstrap": "^1.0.2",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
-    "vuex": "^3.0.1",
-    "xpresser": "^0.1.71"
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
